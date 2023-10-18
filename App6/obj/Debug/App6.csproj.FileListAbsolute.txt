@@ -1,0 +1,6 @@
+/home/admin1/Рабочий стол/WeatherApp/App6/bin/Debug/App6.exe
+/home/admin1/Рабочий стол/WeatherApp/App6/bin/Debug/App6.pdb
+/home/admin1/Рабочий стол/WeatherApp/App6/obj/Debug/App6.csproj.AssemblyReference.cache
+/home/admin1/Рабочий стол/WeatherApp/App6/obj/Debug/App6.csproj.CoreCompileInputs.cache
+/home/admin1/Рабочий стол/WeatherApp/App6/obj/Debug/App6.exe
+/home/admin1/Рабочий стол/WeatherApp/App6/obj/Debug/App6.pdb

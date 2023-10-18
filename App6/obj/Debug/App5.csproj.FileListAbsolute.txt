@@ -1,0 +1,12 @@
+/home/admin1/Рабочий стол/C# Project/App5/App5/bin/Debug/App5.exe
+/home/admin1/Рабочий стол/C# Project/App5/App5/bin/Debug/App5.pdb
+/home/admin1/Рабочий стол/C# Project/App5/App5/obj/Debug/App5.csproj.AssemblyReference.cache
+/home/admin1/Рабочий стол/C# Project/App5/App5/obj/Debug/App5.csproj.CoreCompileInputs.cache
+/home/admin1/Рабочий стол/C# Project/App5/App5/obj/Debug/App5.exe
+/home/admin1/Рабочий стол/C# Project/App5/App5/obj/Debug/App5.pdb
+/home/admin1/Рабочий стол/Учеба/C#Projects/App5/App5/bin/Debug/App5.exe
+/home/admin1/Рабочий стол/Учеба/C#Projects/App5/App5/bin/Debug/App5.pdb
+/home/admin1/Рабочий стол/Учеба/C#Projects/App5/App5/obj/Debug/App5.csproj.AssemblyReference.cache
+/home/admin1/Рабочий стол/Учеба/C#Projects/App5/App5/obj/Debug/App5.csproj.CoreCompileInputs.cache
+/home/admin1/Рабочий стол/Учеба/C#Projects/App5/App5/obj/Debug/App5.exe
+/home/admin1/Рабочий стол/Учеба/C#Projects/App5/App5/obj/Debug/App5.pdb
